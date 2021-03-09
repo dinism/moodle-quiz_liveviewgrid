@@ -36,7 +36,6 @@ $string['questionis'] = '<b>Texto da pergunta</b>: ';
 $string['checkt'] = 'Verificar novas respostas após ';
 $string['choosegroup'] = '<b>Escolher grupo</b>';
 $string['choosequestion'] = '<b>Escolher pergunta (explorar)</b>';
-$string['chooselesson'] = '<b>Choose a lesson</b>';
 $string['chooselesson'] = '<b>Escolher a lição</b>';
 $string['clicksingleq'] = '<b>Clique para visualizar apenas as respostas à pergunta</b>: ';
 $string['clickhideanswer'] = 'Clique para ocultar a resposta correta';
